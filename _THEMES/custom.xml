@@ -5045,5 +5045,13 @@
 	<char id="15747988" name="Mario" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 	    <tags>family,_free,_cat:Template Characters</tags>
 	</char>
+	<char id="330437759" name="Edd" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+	    <tags>family,_free,_cat:Eddsworld</tags>
+	</char>
+	<char id="330437766" name="Tom" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+	    <tags>family,_free,_cat:Eddsworld</tags>
+	</char>
+	<char id="330437785" name="Tom" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+	    <tags>family,_free,_cat:Eddsworld</tags>
 </theme>
 <!--If you see this, Blukas/GoTube says hi and you should give him credit if you modify this ;)-->
