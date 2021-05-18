@@ -4817,6 +4817,9 @@
 	<char id="330733647" name="CyanAnimate" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 		<tags>family,_free,_cat:Other</tags>
 	</char>
+	<char id="330733722" name="RaffinaAnimate" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+		<tags>family,_free,_cat:Other</tags>
+	</char>
 	<char id="325084254" name="Man" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 		<tags>family,_free,_cat:Other</tags>
 	</char>
